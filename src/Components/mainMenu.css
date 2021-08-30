@@ -1,0 +1,9 @@
+.main-menu {
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+    color: blue;
+}
+.start-button {
+    cursor: pointer;
+}
