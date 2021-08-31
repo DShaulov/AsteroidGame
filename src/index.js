@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import MainMenu from './Components/mainMenu';
+import App from './App';
 
 ReactDOM.render(
-  <MainMenu name="David"/>,
+  <App />,
   document.getElementById('root')
 );
